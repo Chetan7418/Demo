@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE mob [
+	<!ELEMENT mob (model,ram,rom,price)>
+	<!ELEMENT model (#PCDATA)>
+	<!ELEMENT ram (#PCDATA)>
+	<!ELEMENT rom (#PCDATA)>
+	<!ELEMENT price (#PCDATA)>
+]>
+<mob>
+	<model>SAMSUNG</model>
+	<ram>4GB</ram>
+	<rom>64GB</rom>
+	<price>60000</price>
+</mob>

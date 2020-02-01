@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<mob>
+	<model>Nokia</model>
+	<ram>4GB</ram>
+	<rom>64GB</rom>
+	<price>50000</price>
+</mob>

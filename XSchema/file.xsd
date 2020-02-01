@@ -1,0 +1,13 @@
+<xs:schema>
+<?xml version="1.0"?>
+	<xs:element name="mob">
+	<xs:complexType>
+	<xs:sequence>
+	<xs:element name="model" type="xs:string"/>
+	<xs:element name="ram" type="xs:string"/>
+	<xs:element name="rom" type="xs:string"/>
+	<xs:element name="price" type="xs:string"/>
+	</xs:complexType>
+	</xs:sequence>
+	</xs:element>
+</xs:schema>

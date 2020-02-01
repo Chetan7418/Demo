@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl "href="Rule.xsl" ?>
+<student>
+<s>
+<name>Suraj Sadashiv Shinde</name>
+<branch>CSE</branch>
+<age> 21</age>
+<city>Kolhapur</city>
+</s>
+</student>
